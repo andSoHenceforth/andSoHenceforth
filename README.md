@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="mailto:aallendarmawan@gmail.com">m
+  <a href="mailto:aallendarmawan@gmail.com">
     <img width="50" height="50"  src="https://github.com/user-attachments/assets/27b401fd-99b5-4b0f-a702-19de4e6126d9" />
   </a>
   <a href="https://www.linkedin.com/in/aallendarmawan/">
