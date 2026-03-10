@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=87CEEB&text=Heylo,%20welcome!&section=header&textBg=false&descAlign=35&fontAlign=50&fontAlignY=41&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=87CEEB&text=Heylo,%20welcome!&section=header&textBg=false&descAlign=35&fontAlign=50&fontAlignY=41&fontColor=FFFFFF&fontSize=40&animation=twinkling"/>
   <br>
-  <img alt="kaisei" src="https://media1.tenor.com/m/p0Uw7fbx4rsAAAAC/kaisei-orangestar.gif" width="450"/>
+  <img alt="kaisei" src="https://media1.tenor.com/m/p0Uw7fbx4rsAAAAC/kaisei-orangestar.gif" width="380"/>
   <h3>free to connect with me and maybe have a chat!</h3>
 </div>
 
@@ -35,11 +35,11 @@ interested_in:
   - mathematics: Graph Theory, Topology
   - physics: Quantum Mechanics, Space and Astronomy
   - weather: Meteorology, Weather Forecasting, and more specifically the study of clouds (nephology)
-  - hobby: travelling (life is short after all, so why not explore and really mean "Hello World!"?)
+  - hobby: travelling (life is short after all, so why not explore and really mean "Hello World!" outside of code?)
   - hobby: reading books (avid fan of Haruki Murakami)
   - hobby: listening to video game OSTs (especially Mario Kart) and VOCALOID songs (especially Orangestar and *Luna)
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=87CEEB&section=footer&textBg=false&descAlign=35&fontAlign=50&fontAlignY=41&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=87CEEB&section=footer&textBg=false&descAlign=35&fontAlign=50&fontAlignY=41&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
 </div>
