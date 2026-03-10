@@ -25,13 +25,9 @@ preferred_name: Allen (but you can also call me Len!)
 originally_from: Melbourne, Australia
 currently_lives_in: Lund, Sweden (for my exchange semester from Jan. 2026 - Jun. 2026)
 education:
-  - course_name: Bachelor of Science
-    course_major: Pure Mathematics
+  - course_name: Bachelor of Science and Bachelor of Computer Science (double degree)
+    course_majors: Pure Mathematics, Advanced Computer Science
     course_minor: Physics
-    course_university: Monash University, Australia
-    course_duration: Feb. 2022 - Jun. 2026
-  - course_name: Bachelor of Computer Science
-    course_major: Advanced Computer Science
     course_university: Monash University, Australia
     course_duration: Feb. 2022 - Jun. 2026
 interested_in:
