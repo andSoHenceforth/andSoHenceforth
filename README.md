@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=87CEEB&text=Heylo,%20welcome!&section=header&textBg=false&descAlign=35&fontAlign=50&fontAlignY=41&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
   <br>
-  <img alt="kaisei" src="https://media1.tenor.com/m/p0Uw7fbx4rsAAAAC/kaisei-orangestar.gif" width="500"/>
-  <h1>free to connect with me and maybe have a chat!</h1>
+  <img alt="kaisei" src="https://media1.tenor.com/m/p0Uw7fbx4rsAAAAC/kaisei-orangestar.gif" width="450"/>
+  <h3>free to connect with me and maybe have a chat!</h3>
 </div>
 
 
