@@ -18,6 +18,24 @@
   </a>
 </p>
 
+<h2>about_me.yml</h2>
+
+```yaml
+preferred_name: Allen (but you can also call me Len!)
+originally_from: Melbourne, Australia
+currently_lives_in: Lund, Sweden (for my exchange semester from Jan. 2026 - Jun. 2026)
+education:
+  - course_name: Bachelor of Science
+    course_major: Pure Mathematics
+    course_minor: Physics
+    course_university: Monash University, Australia
+    course_duration: Feb. 2022 - Jun. 2026
+  - course_name: Bachelor of Computer Science
+    course_major: Advanced Computer Science
+    course_university: Monash University, Australia
+    course_duration: Feb. 2022 - Jun. 2026
+```
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=87CEEB&section=footer&textBg=false&descAlign=35&fontAlign=50&fontAlignY=41&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
