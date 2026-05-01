@@ -6,9 +6,25 @@
 </div>
 
 
-<p align="center">
-  <a href="mailto:aallendarmawan@gmail.com"><img width="50" height="50" src="https://github.com/user-attachments/assets/27b401fd-99b5-4b0f-a702-19de4e6126d9" /></a><a href="https://www.linkedin.com/in/aallendarmawan/"><img width="50" height="50" src="https://github.com/user-attachments/assets/1250deca-d745-47ac-ae57-758b119b256c" /></a><a href="https://aallendarmawan.com/"><img width="50" height="50" src="https://github.com/user-attachments/assets/5d1b6576-aeb0-496c-a363-67f3f9a82ac4" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:aallendarmawan@gmail.com">
+        <img width="50" height="50" src="https://github.com/user-attachments/assets/27b401fd-99b5-4b0f-a702-19de4e6126d9" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/aallendarmawan/">
+        <img width="50" height="50" src="https://github.com/user-attachments/assets/1250deca-d745-47ac-ae57-758b119b256c" />
+      </a>
+    </td>
+    <td>
+      <a href="https://aallendarmawan.com/">
+        <img width="50" height="50" src="https://github.com/user-attachments/assets/5d1b6576-aeb0-496c-a363-67f3f9a82ac4" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2>about_len.yml</h2>
 
